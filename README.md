@@ -6,6 +6,8 @@ Welcome to the **Cheat Sheet** repository! This repository contains a collection
 
 ### HTML Cheat Sheet
 - Comprehensive guide to HTML tags and their usage.
+  https://github.com/coderanandmaurya/cheat_sheet/blob/main/vs_code_for_html.md
+  https://github.com/coderanandmaurya/cheat_sheet/blob/main/HTML_CHEATSHEET.md
 
 ### CSS Cheat Sheet
 - Quick reference for CSS properties, selectors, and styling techniques.
